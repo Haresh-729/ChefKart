@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChefKart/static/css/main.e11c0698.css",
+    "main.js": "/ChefKart/static/js/main.72a7ee81.js",
+    "index.html": "/ChefKart/index.html",
+    "main.e11c0698.css.map": "/ChefKart/static/css/main.e11c0698.css.map",
+    "main.72a7ee81.js.map": "/ChefKart/static/js/main.72a7ee81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e11c0698.css",
+    "static/js/main.72a7ee81.js"
+  ]
+}
