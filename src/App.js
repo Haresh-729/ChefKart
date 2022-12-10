@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App scrollbar-hide">
       <Routes>
-      <Route path="/" element={[<NavBar />,<Home />]} />
+      <Route path="/ChefKart" element={[<NavBar />,<Home />]} />
       </Routes>
     </div>
   );
