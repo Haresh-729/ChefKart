@@ -1,1 +1,3 @@
-
+# Hello....!
+This is a small project built using react.js, Tailwind CSS, npm...
+you can hava a glance of it at https://hareshkurade.me/ChefKart/
