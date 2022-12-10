@@ -1,14 +1,14 @@
 import './App.css';
 import { Routes, Route } from "react-router-dom";
 import Home from './components/Home';
+import NavBar from './components/NavBar';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App scrollbar-hide">
       <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/" element={[<NavBar />,<Home />]} />
       </Routes>
-      {/* <h1 className="bg-red-600 text-white">Hello Haresh</h1> */}
     </div>
   );
 }
